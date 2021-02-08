@@ -1,0 +1,1 @@
+gcc .\read_ClemFile_Print_CRC41_FLASH_16M_NVM64K_R01.c -o .\read_ClemFile_Print_CRC41_FLASH_16M_NVM64K_R0
