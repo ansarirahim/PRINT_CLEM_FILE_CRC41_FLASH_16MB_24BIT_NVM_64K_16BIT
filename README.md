@@ -8,4 +8,7 @@ Expected Reply==>
 21,2
 Where 21= Decimal value of crc41 of nvm 64k data inside the file 0003812.j19 and is identified by starting byte zero.
       2= Decimal value of crc41 of flash 16MB 24 bit memory inside the file 0003812.j19 and is identified by starting byte 02.
+if we executed without argument => .\read_ClemFile_Print_CRC41_FLASH_16M_NVM64K_R01.exe      
+Expected reply==>VER 1.00 REV 1.00   
+      
 
